@@ -9,8 +9,8 @@
   
 <div align="center">
   <a href="https://github.com/vitortenorio-2005">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitortenorio-2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/%3E">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitortenorio-2005&layout=compact&langs_count=7&theme=tokyonight">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=vitortenorio-2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/%3E">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitortenorio-2005&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
 ## **Linguagens:**
@@ -24,7 +24,7 @@
 
 <div style="display: inline_block"><br>
 <a href="https://www.instagram.com/vitor_tenorio020/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="maito:vitortenorio2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
 <!---
 vitortenorio-2005/vitortenorio-2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
